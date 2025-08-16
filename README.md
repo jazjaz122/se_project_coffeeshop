@@ -12,3 +12,8 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 - CSS Animation and transfomations
 - BEM: File organization
 - Embeded video, audio and widgets
+
+## I'm always striving to enhance this project. Here are some of the improvements I have planned:
+
+- Improved User Interface: Always stricing to have a more visually appealing user interface
+- Performance Optimizations: I'm always looking to improve website performance

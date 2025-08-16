@@ -56,6 +56,16 @@
   height: 20px;
 }
 
+.form__label {
+  font-family: "Inter", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  display: block;
+  margin-bottom: 8px;
+}
+
 .form__label_type_checkbox {
   display: flex;
   gap: 12px;

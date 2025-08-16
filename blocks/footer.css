@@ -15,7 +15,7 @@
   height: 39px;
 }
 
-.footer__column-heading {
+.footersocial-heading {
   margin: 0 0 20px;
   font-family: "inter", Arial, sans-serif;
   font-style: normal;
@@ -47,7 +47,7 @@
 }
 
 .footer__social-link:hover {
-  opacity: 0.5;
+  opacity: 0.7;
 }
 
 .footer__social-icon {
