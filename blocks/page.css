@@ -5,8 +5,3 @@
   font-size: 16px;
   line-height: 20px;
 }
-
-@media (min-width: 320px) {
-  .pages
-  padding: 12px;
-}
