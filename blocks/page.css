@@ -7,5 +7,6 @@
 }
 
 @media (min-width: 320px) {
+  .pages
   padding: 12px;
 }
