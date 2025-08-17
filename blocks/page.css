@@ -6,40 +6,8 @@
   line-height: 20px;
 }
 
-.container {
-  padding: 20px;
-  font-size: 16px;
-}
-
 @media (min-width: 320px) {
   .container {
     padding: 12px;
-  }
-
-  .about__title {
-    font-size: 28px;
-    line-height: 34px;
-  }
-}
-
-@media (min-width: 768px) {
-  .container {
-    padding: 16px;
-  }
-
-  .about__title {
-    font-size: 36px;
-    line-height: 42px;
-  }
-}
-
-@media (min-width: 1440px) {
-  .container {
-    padding: 20px;
-  }
-
-  .about__title {
-    font-size: 44px;
-    line-height: 52px;
   }
 }
